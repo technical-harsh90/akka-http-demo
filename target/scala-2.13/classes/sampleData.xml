@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <result>
+      <student>
+		 <id>1</id>	
+         <class>10</class>
+         <gender>M</gender>
+         <name>John</name>
+         <school>xyz school</school>
+         <score>450</score>
+         <total>500</total>
+      </student>
+      <student>
+	     <id>2</id>
+         <class>10</class>
+         <gender>F</gender>
+         <name>Anna</name>
+         <school>xyz school</school>
+         <score>480</score>
+         <total>500</total>
+      </student>
+      <student>
+	     <id>3</id>
+         <class>10</class>
+         <gender>M</gender>
+         <name>Mark</name>
+         <school>xyz school</school>
+         <score>150</score>
+         <total>500</total>
+      </student>
+      <student>
+	     <id>4</id>
+         <class>10</class>
+         <gender>M</gender>
+         <name>Billy</name>
+         <school>xyz school</school>
+         <score>300</score>
+         <total>500</total>
+      </student>
+      <student>
+	     <id>5</id>
+         <class>10</class>
+         <gender>F</gender>
+         <name>Sam</name>
+         <school>xyz school</school>
+         <score>180</score>
+         <total>500</total>
+      </student>
+      <student>
+	     <id>6</id>
+         <class>10</class>
+         <gender>F</gender>
+         <name>Paige</name>
+         <school>xyz school</school>
+         <score>450</score>
+         <total>500</total>
+      </student>
+      <student>
+	     <id>7</id>
+         <class>10</class>
+         <gender>M</gender>
+         <name>Stuard</name>
+         <school>xyz school</school>
+         <score>400</score>
+         <total>500</total>
+      </student>
+   </result>
